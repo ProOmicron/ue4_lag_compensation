@@ -1,4 +1,4 @@
-![Logo](/Assets/Images/Logo.png")
+![Logo](/Assets/Images/Logo.jpg)
 # **Тестовое задание. UE4 Developer** **(Multiplayer)**
 
 ### Привет!
@@ -9,7 +9,7 @@
 
 Удачи!
 
-![Banner](/Assets/Images/Banner.png")
+![Banner](/Assets/Images/Banner.png)
 
 **Тестовое задание необходимо реализовать в UE версии 4.27. Если у тебя возникнут вопросы по теме тестового, напиши их, пожалуйста!**
 
